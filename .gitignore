@@ -7,3 +7,5 @@ __pycache__/
 # Local-only files
 travel_planner_submission.zip
 pyrightconfig.json
+.pytest_cache/
+*.tmp
